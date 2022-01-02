@@ -5,9 +5,9 @@ Project #2 of Udacity Data Analysis Advanced Nanodegree Program.
 We will be working to understand the results of an A/B test run by an e-commerce website.
 
 ## Softwares Used:
- - Python 3
- - Anaconda
- - jupyter notebook
+- [Python 3](https://www.python.org/downloads/)
+- [Anaconda](https://www.anaconda.com/products/individual)
+  - jupyter notebook "installed automatically with anaconda"
 
 ## Libraries needed:
  - pandas
